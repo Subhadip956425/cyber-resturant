@@ -100,4 +100,22 @@
         border-radius: 5px;
     }
     
+    .top_cat
+{
+    border: 0px solid blue;
+    display: table;
+}
+
+.top_cat_product
+{
+    border: 0px solid red;
+    width: 372px;
+    height: 340px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.5s;
+}
+    
 }
